@@ -1,7 +1,7 @@
 {
-  "pr_number": "448",
-  "pr_title": "Nip65 relay list",
-  "pr_author": "dangershony",
-  "deployed_at": "2025-07-03T17:53:29Z",
-  "commit_sha": "0ea2f9cf1bca360036b3e966a68bbed48a35649c"
+  "pr_number": "457",
+  "pr_title": "Fix UI",
+  "pr_author": "miladsoft",
+  "deployed_at": "2025-07-05T11:49:10Z",
+  "commit_sha": "59eb6e30f5e1038ea046620ce10dc96d8bb61db1"
 }
