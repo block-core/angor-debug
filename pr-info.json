@@ -1,7 +1,7 @@
 {
-  "pr_number": "457",
-  "pr_title": "Fix UI",
-  "pr_author": "miladsoft",
-  "deployed_at": "2025-07-05T11:49:10Z",
-  "commit_sha": "59eb6e30f5e1038ea046620ce10dc96d8bb61db1"
+  "pr_number": "463",
+  "pr_title": "Mainnet Rule Mode Toggle UI button",
+  "pr_author": "mistic0xb",
+  "deployed_at": "2025-07-13T04:59:44Z",
+  "commit_sha": "3ad2390d22e4c4277db3092f1ce1c2358603ca54"
 }
