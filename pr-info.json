@@ -1,7 +1,7 @@
 {
-  "pr_number": "463",
-  "pr_title": "Mainnet Rule Mode Toggle UI button",
-  "pr_author": "mistic0xb",
-  "deployed_at": "2025-07-13T04:59:44Z",
-  "commit_sha": "3ad2390d22e4c4277db3092f1ce1c2358603ca54"
+  "pr_number": "467",
+  "pr_title": "Rebuild create_project page and add Date picker",
+  "pr_author": "miladsoft",
+  "deployed_at": "2025-07-15T03:42:19Z",
+  "commit_sha": "f42477ac3cc07cd3998753b6a5e35429ad81adcb"
 }
