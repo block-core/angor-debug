@@ -1,7 +1,7 @@
 {
-  "pr_number": "470",
-  "pr_title": "mainnet-rules-mode flag logic implementaion",
-  "pr_author": "mistic0xb",
-  "deployed_at": "2025-07-15T16:46:44Z",
-  "commit_sha": "a9fade167423ad62f0ea197f3a58db33be1a770c"
+  "pr_number": "469",
+  "pr_title": "Hide the mainnet rules ui if on mainnet",
+  "pr_author": "dangershony",
+  "deployed_at": "2025-07-15T17:42:15Z",
+  "commit_sha": "e4ea8ff47effa47ed83dae4ec3c02fb0335438c9"
 }
