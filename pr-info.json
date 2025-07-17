@@ -1,7 +1,7 @@
 {
-  "pr_number": "470",
-  "pr_title": "mainnet-rules-mode flag logic implementaion",
-  "pr_author": "mistic0xb",
-  "deployed_at": "2025-07-16T14:38:52Z",
-  "commit_sha": "762af419fbaf92ff37a5eb313cfac98ada5edafc"
+  "pr_number": "475",
+  "pr_title": "Fix create project",
+  "pr_author": "miladsoft",
+  "deployed_at": "2025-07-17T06:14:48Z",
+  "commit_sha": "9281d702251b1c7bb19543ada1835cbe1a023514"
 }
