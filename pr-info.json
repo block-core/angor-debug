@@ -1,7 +1,7 @@
 {
-  "pr_number": "475",
-  "pr_title": "Fix create project",
-  "pr_author": "miladsoft",
-  "deployed_at": "2025-07-21T12:09:55Z",
-  "commit_sha": "b06f90c378d9297b39831ff442e6fac6c6de22c5"
+  "pr_number": "481",
+  "pr_title": "Add some logs to investor scan",
+  "pr_author": "dangershony",
+  "deployed_at": "2025-07-25T04:11:42Z",
+  "commit_sha": "f448d23b273b912c6878e3c061f69a55c16d0386"
 }
