@@ -1,7 +1,7 @@
 {
-  "pr_number": "485",
-  "pr_title": "Improved null safety and project info refresh in Founder.razor",
+  "pr_number": "486",
+  "pr_title": "Fix incomplete project data on Founder page and enhance recovery logic",
   "pr_author": "miladsoft",
-  "deployed_at": "2025-08-04T07:24:06Z",
-  "commit_sha": "453c24fab40b8eb3143f80b35c5842c88459fba2"
+  "deployed_at": "2025-08-13T16:07:55Z",
+  "commit_sha": "925aa4124c83c30301d9088bcc2f18f3869265ba"
 }
