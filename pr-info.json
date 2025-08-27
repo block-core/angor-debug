@@ -1,7 +1,7 @@
 {
-  "pr_number": "489",
-  "pr_title": "Auto-save functionality for Create page fields",
+  "pr_number": "496",
+  "pr_title": "Refactor UTXO logic and enhance password input handling",
   "pr_author": "miladsoft",
-  "deployed_at": "2025-08-20T02:39:20Z",
-  "commit_sha": "9af5e4dd102565463ef88e9190cdc76d2f3e51c9"
+  "deployed_at": "2025-08-27T14:13:04Z",
+  "commit_sha": "99680949b07bf08eb7c4cc06e6755da53cb13fbe"
 }
