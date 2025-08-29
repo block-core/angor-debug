@@ -1,7 +1,7 @@
 {
-  "pr_number": "496",
-  "pr_title": "Refactor UTXO logic and enhance password input handling",
-  "pr_author": "miladsoft",
-  "deployed_at": "2025-08-27T16:06:50Z",
-  "commit_sha": "99680949b07bf08eb7c4cc06e6755da53cb13fbe"
+  "pr_number": "499",
+  "pr_title": "Fix date discrepancies",
+  "pr_author": "dangershony",
+  "deployed_at": "2025-08-29T16:47:25Z",
+  "commit_sha": "989b849f35ebde792d76d2f659116cf3dcea5b62"
 }
